@@ -27,7 +27,7 @@ Este trabalho foi desenvolvido como parte da disciplina **Redes 1**, ministrada 
 ## Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/FrancoBorba/JantarDosFilosofos.git
+   git clone https://github.com/FrancoBorba/SimulacaoCamadaFisica.git
 2. Abra o projeto em sua IDE de preferência.
 3. Compile e execute o código principal para iniciar a simulação.
 
